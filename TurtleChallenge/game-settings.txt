@@ -1,0 +1,7 @@
+﻿5				--n width
+4				--m height
+0, 1, N			--starting point
+3, 0			--exit point
+0, 0			--mine
+1, 1			--mine
+2, 2
